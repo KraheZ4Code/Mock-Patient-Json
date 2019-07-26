@@ -1,0 +1,34 @@
+{"patients": [
+    {
+      "name": "John Smith",
+      "dob": "9/7/1977",
+      "medRecordNumber": "123456",
+      "accessionNumber": "654321",
+      "examDate": "6/19/2017",
+      "exam": "exam1"
+    },
+  {
+    "name": "John Smith",
+    "dob": "9/7/1977",
+    "medRecordNumber": "123456",
+    "accessionNumber": "654321",
+    "examDate": "6/19/2017",
+    "exam": "exam1"},
+  {
+    "name": "John Smith",
+    "dob": "9/7/1977",
+    "medRecordNumber": "123456",
+    "accessionNumber": "654321",
+    "examDate": "6/19/2017",
+    "exam": "exam2"
+  },
+  {
+    "name": "John Smith",
+    "dob": "9/7/1977",
+    "medRecordNumber": "123456",
+    "accessionNumber": "654321",
+    "examDate": "6/19/2017",
+    "exam": "exam3"
+  }
+]
+}
